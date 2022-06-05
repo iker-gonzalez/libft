@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-	<b><i>C library created with own functions</i></b><br>
+	<b><i>Development repo for 42cursus' libft project</i></b><br>
+	For further information about 42cursus and its projects, please refer to <a href="https://github.com/iker-gonzalez/42_cursus"><b>42cursus repo</b>
 </p>
 
 <p align="center">
