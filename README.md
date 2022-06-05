@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/appinha/42cursus-00-Libft?color=blueviolet" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/appinha/42cursus-00-Libft?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/appinha/42cursus-00-Libft?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/appinha/42cursus-00-Libft?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/appinha/42cursus-00-Libft?color=brightgreen" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/iker-gonzalez/libft?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/iker-gonzalez/libft?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/iker-gonzalez/libft?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/iker-gonzalez/libft?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iker-gonzalez/libft?color=brightgreen" />
 </p>
 
 <h3 align="center">
@@ -28,7 +28,7 @@
 
 > _The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects._
 
-For more detailed information, look at the [**subject of this project.**](https://github.com/ikgonzal/42_cursus/blob/main/01_libft/subject/en_subject.pdf)
+For more detailed information, look at the [**subject of this project.**](https://github.com/iker-gonzalez/42_cursus/blob/main/_PDFs/en.subject_libft.pdf)
 
 	🚀 This project consists of coding basic C functions (see below), which are then compiled
 	into a library for use in other projects of the cursus.
